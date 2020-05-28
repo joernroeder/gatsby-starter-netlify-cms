@@ -8,7 +8,18 @@
     {
       "title": "jkbdfhg",
       "affiliation": "dfgk",
-      "bio": "sdkf"
+      "bio": "sdkf",
+      "speakson": [
+        {
+          "topic": "Test"
+        },
+        {
+          "topic": "Another"
+        },
+        {
+          "topic": "Foo"
+        }
+      ]
     }
   ]
 }
