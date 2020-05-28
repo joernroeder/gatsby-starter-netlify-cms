@@ -1,11 +1,6 @@
 {
   "Members": [
     {
-      "title": "Test Search ",
-      "affiliation": "ogsdf",
-      "bio": "fdhkjg"
-    },
-    {
       "title": "jkbdfhg",
       "affiliation": "dfgk",
       "bio": "sdkf",
@@ -20,6 +15,11 @@
           "topic": "Foo"
         }
       ]
+    },
+    {
+      "title": "Test Search ",
+      "affiliation": "ogsdf",
+      "bio": "fdhkjg"
     }
   ]
 }
